@@ -407,7 +407,7 @@ void explainExtra(){
     long long num = 165784387354;
     int cnt = __builtin_popcountll();
 
-    string s ="123"; // to find all the permutations of strings
+    string s ="123"; // to find all the permutations of strings.
 
     do{
         cout << s << endl;
